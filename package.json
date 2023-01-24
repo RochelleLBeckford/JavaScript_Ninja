@@ -1,0 +1,13 @@
+{
+  "name": "1_ninja_p",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "1_ninja.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
